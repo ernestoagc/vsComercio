@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace BusinessEntity
 {
+
+    [Serializable]
     public class SucursalBE
     {
         public SucursalBE(){

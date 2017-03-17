@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessEntity
 {
+    [Serializable]
     public class OrdenPagoBE
     {
         public OrdenPagoBE() {
